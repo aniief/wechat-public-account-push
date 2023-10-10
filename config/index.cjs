@@ -13,8 +13,8 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '',
   USE_PASSAGE: 'push-deer',
-  PROVINCE: '广东',
-  CITY: '惠州',
+  PROVINCE: '安徽',
+  CITY: '阜阳',
 
   USERS: [
     {
